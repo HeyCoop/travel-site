@@ -1,0 +1,205 @@
+﻿[{
+	"StateId": 1,
+	"StateCd": "AL",
+	"StateNm": "Alabama"
+}, {
+	"StateId": 2,
+	"StateCd": "AK",
+	"StateNm": "Alaska"
+}, {
+	"StateId": 3,
+	"StateCd": "AZ",
+	"StateNm": "Arizona"
+}, {
+	"StateId": 4,
+	"StateCd": "AR",
+	"StateNm": "Arkansas"
+}, {
+	"StateId": 5,
+	"StateCd": "CA",
+	"StateNm": "California"
+}, {
+	"StateId": 6,
+	"StateCd": "CO",
+	"StateNm": "Colorado"
+}, {
+	"StateId": 7,
+	"StateCd": "CT",
+	"StateNm": "Connecticut"
+}, {
+	"StateId": 8,
+	"StateCd": "DE",
+	"StateNm": "Delaware"
+}, {
+	"StateId": 9,
+	"StateCd": "DC",
+	"StateNm": "District of Columbia"
+}, {
+	"StateId": 10,
+	"StateCd": "FL",
+	"StateNm": "Florida"
+}, {
+	"StateId": 11,
+	"StateCd": "GA",
+	"StateNm": "Georgia"
+}, {
+	"StateId": 12,
+	"StateCd": "HI",
+	"StateNm": "Hawaii"
+}, {
+	"StateId": 13,
+	"StateCd": "ID",
+	"StateNm": "Idaho"
+}, {
+	"StateId": 14,
+	"StateCd": "IL",
+	"StateNm": "Illinois"
+}, {
+	"StateId": 15,
+	"StateCd": "IN",
+	"StateNm": "Indiana"
+}, {
+	"StateId": 16,
+	"StateCd": "IA",
+	"StateNm": "Iowa"
+}, {
+	"StateId": 17,
+	"StateCd": "KS",
+	"StateNm": "Kansas"
+}, {
+	"StateId": 18,
+	"StateCd": "KY",
+	"StateNm": "Kentucky"
+}, {
+	"StateId": 19,
+	"StateCd": "LA",
+	"StateNm": "Louisiana"
+}, {
+	"StateId": 20,
+	"StateCd": "ME",
+	"StateNm": "Maine"
+}, {
+	"StateId": 21,
+	"StateCd": "MT",
+	"StateNm": "Montana"
+}, {
+	"StateId": 22,
+	"StateCd": "NE",
+	"StateNm": "Nebraska"
+}, {
+	"StateId": 23,
+	"StateCd": "NV",
+	"StateNm": "Nevada"
+}, {
+	"StateId": 24,
+	"StateCd": "NH",
+	"StateNm": "New Hampshire"
+}, {
+	"StateId": 25,
+	"StateCd": "NJ",
+	"StateNm": "New Jersey"
+}, {
+	"StateId": 26,
+	"StateCd": "NM",
+	"StateNm": "New Mexico"
+}, {
+	"StateId": 27,
+	"StateCd": "NY",
+	"StateNm": "New York"
+}, {
+	"StateId": 28,
+	"StateCd": "NC",
+	"StateNm": "North Carolina"
+}, {
+	"StateId": 29,
+	"StateCd": "ND",
+	"StateNm": "North Dakota"
+}, {
+	"StateId": 30,
+	"StateCd": "OH",
+	"StateNm": "Ohio"
+}, {
+	"StateId": 31,
+	"StateCd": "OK",
+	"StateNm": "Oklahoma"
+}, {
+	"StateId": 32,
+	"StateCd": "OR",
+	"StateNm": "Oregon"
+}, {
+	"StateId": 33,
+	"StateCd": "MD",
+	"StateNm": "Maryland"
+}, {
+	"StateId": 34,
+	"StateCd": "MA",
+	"StateNm": "Massachusetts"
+}, {
+	"StateId": 35,
+	"StateCd": "MI",
+	"StateNm": "Michigan"
+}, {
+	"StateId": 36,
+	"StateCd": "MN",
+	"StateNm": "Minnesota"
+}, {
+	"StateId": 37,
+	"StateCd": "MS",
+	"StateNm": "Mississippi"
+}, {
+	"StateId": 38,
+	"StateCd": "MO",
+	"StateNm": "Missouri"
+}, {
+	"StateId": 39,
+	"StateCd": "PA",
+	"StateNm": "Pennsylvania"
+}, {
+	"StateId": 40,
+	"StateCd": "RI",
+	"StateNm": "Rhode Island"
+}, {
+	"StateId": 41,
+	"StateCd": "SC",
+	"StateNm": "South Carolina"
+}, {
+	"StateId": 42,
+	"StateCd": "SD",
+	"StateNm": "South Dakota"
+}, {
+	"StateId": 43,
+	"StateCd": "TN",
+	"StateNm": "Tennessee"
+}, {
+	"StateId": 44,
+	"StateCd": "TX",
+	"StateNm": "Texas"
+}, {
+	"StateId": 45,
+	"StateCd": "UT",
+	"StateNm": "Utah"
+}, {
+	"StateId": 46,
+	"StateCd": "VT",
+	"StateNm": "Vermont"
+}, {
+	"StateId": 47,
+	"StateCd": "VA",
+	"StateNm": "Virginia"
+}, {
+	"StateId": 48,
+	"StateCd": "WA",
+	"StateNm": "Washington"
+}, {
+	"StateId": 49,
+	"StateCd": "WV",
+	"StateNm": "West Virginia"
+}, {
+	"StateId": 50,
+	"StateCd": "WI",
+	"StateNm": "Wisconsin"
+}, {
+	"StateId": 51,
+	"StateCd": "WY",
+	"StateNm": "Wyoming"
+}]
